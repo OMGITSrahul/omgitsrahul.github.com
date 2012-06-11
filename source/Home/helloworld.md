@@ -1,4 +1,4 @@
-Date: 2012-06-11
+Date: 2012-06-11 06:52am
 Title: Hello World!
 Tags: finally!
 Slug: hello-world
