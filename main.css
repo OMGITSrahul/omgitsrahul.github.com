@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
+
+body {
+  background: url('./bg_mag.jpg') repeat;
+  font-size: 10px;
+  font-family: 'Yanone Kaffeesatz';
+}
+
+container {
+    background-color: #FFFFFF;
+    position:absolute; top:50%; height:8%; margin-top:-5%;
+    font-size: 50px;
+    margin-left: 28%;
+    padding: 8px;
+    width: 42%;
+}
+
