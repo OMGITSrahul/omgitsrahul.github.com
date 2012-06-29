@@ -2,16 +2,16 @@
 
 body {
   background: url('./bg_mag.jpg') repeat;
-  font-size: 10px;
+
   font-family: 'Yanone Kaffeesatz';
 }
 
 container {
     background-color: #FFFFFF;
     position:absolute; top:50%; height:8%; margin-top:-5%;
-    font-size: 500%;
+    font-size: 300%;
     margin-left: 28%;
     padding: 2%;
-    width: 42%;
+    width: 40.5%;
 }
 
