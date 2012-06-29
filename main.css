@@ -9,9 +9,9 @@ body {
 container {
     background-color: #FFFFFF;
     position:absolute; top:50%; height:8%; margin-top:-5%;
-    font-size: 50px;
+    font-size: 500%;
     margin-left: 28%;
-    padding: 20px;
-    width: 673px;
+    padding: 2%;
+    width: 42%;
 }
 
