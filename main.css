@@ -4,7 +4,6 @@ body {
     
     background: url('./bg_mag.jpg') repeat;
     font-family: 'Yanone Kaffeesatz';
-    width: 100%;
 }
 
 container {
@@ -14,7 +13,7 @@ container {
     font-size: 4em;
     margin-left: 1em;
     padding: 0.3em;
-    width: 100%;
+    width: 50em;
 }
 
 content {
