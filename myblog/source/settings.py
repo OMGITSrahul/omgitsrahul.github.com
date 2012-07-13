@@ -31,11 +31,11 @@ AUTHOR = 'Rahul'
 SITENAME = '{Fleeting thoughts of the pointless variety}'
 
 WITH_PAGINATION = False
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 10
 REVERSE_ARCHIVE_ORDER = True
 
 # Uncomment what ever you want to use
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
-#DISQUS_SITENAME = 'yourdisqushandle'
+DISQUS_SITENAME = 'omgitsrahul'
 #GITHUB_URL = 'http://github.com/username/username.github.com'
 #TWITTER_USERNAME = '@OMGITSrahul'

@@ -12,10 +12,11 @@
 @import url("pygment.css");
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
 @import url(http://fonts.googleapis.com/css?family=Merriweather);
+@import url(http://fonts.googleapis.com/css?family=Cabin+Sketch:700);
 /***** Global *****/
 /* Body */
 body {
-    background: #F7819F;
+    background: #FF4D00;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,7 +29,7 @@ body {
 
 
 /* Headings */
-h1 {font-size: 200% }
+h1 {font-size: 200%;font-family: 'Yanone Kaffeesatz',arial,serif;}
 h2 {font-size: 1.571em}	/* 22px */
 h3 {font-size: 1.429em}	/* 20px */
 h4 {font-size: 1.286em}	/* 18px */
@@ -39,12 +40,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	line-height: 1.1;
 	margin-bottom: .8em;
-    font-family: 'Yanone Kaffeesatz', arial, serif;
+    
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
 	
-hr { border: 2px solid #F7819F; }
+hr { border: 2px solid #FF4D00; }
 
 /* Anchors */
 a {outline: 0;}
@@ -66,7 +67,7 @@ h1 a:hover {
 }
 	
 /* Paragraphs */
-p {margin-bottom: 3.543em; font-family: 'Merriweather', serif;font-size: 1em;padding: 0.14em;}
+p {margin-bottom: 3.543em; font-family: 'Trebuchet MS',Trebuchet,'Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial,sans-serif;font-size: 1.1em;padding: 0.14em;}
 
 strong, b {font-weight: bold;}
 em, i {font-style: italic;}
@@ -153,7 +154,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 }
 
 	/* Banner */
-	#banner h1 {font-size: 380%; line-height: 0;}
+	#banner h1 {font-size: 380%; line-height: 0;font-family: 'Cabin Sketch', cursive;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
 		display: block;
@@ -218,7 +219,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	Featured
 *****************/
 #featured {
-	background: #F5A9BC;
+	background: #FFA55D;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 30px;
@@ -247,7 +248,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	Body
 *****************/
 #content {
-	background: #F5A9BC;
+	background: #FFA55D;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
@@ -315,7 +316,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	About
 *****************/
 #about {
-	background: #F7819F;
+	background: #FF4D00;
 	font-style: normal;
 	margin-bottom: 2em;
 	overflow: hidden;
@@ -371,7 +372,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 		left: 10px;
 		position: relative;
         float: left;
-		top: 0.5em;
+		top: 4.5em;
 		width: 190px;
 	}
 	

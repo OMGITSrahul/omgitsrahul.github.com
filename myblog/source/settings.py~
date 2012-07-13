@@ -23,7 +23,7 @@ SITEURL = 'omgitsrahul.github.com'
 
 # I like to have ``Archives`` in the main menu.
 MENUITEMS = (
-    ('Archives', 'rahulis.me/myblog/archives.html'),
+    ('Archives', './archives.html'.format(SITEURL)),
 )
 
 
