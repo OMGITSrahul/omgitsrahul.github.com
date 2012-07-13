@@ -37,5 +37,5 @@ REVERSE_ARCHIVE_ORDER = True
 # Uncomment what ever you want to use
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
 DISQUS_SITENAME = 'omgitsrahul'
-#GITHUB_URL = 'http://github.com/username/username.github.com'
+GITHUB_URL = 'https://github.com/OMGITSrahul/omgitsrahul.github.com'
 #TWITTER_USERNAME = '@OMGITSrahul'
