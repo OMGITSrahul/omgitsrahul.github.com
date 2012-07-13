@@ -23,7 +23,7 @@ SITEURL = 'omgitsrahul.github.com'
 
 # I like to have ``Archives`` in the main menu.
 MENUITEMS = (
-    ('Archives', '../archives.html'.format(SITEURL)),
+    ('Archives', 'rahulis.me/myblog/archives.html'),
 )
 
 
@@ -38,4 +38,4 @@ REVERSE_ARCHIVE_ORDER = True
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
 #DISQUS_SITENAME = 'yourdisqushandle'
 #GITHUB_URL = 'http://github.com/username/username.github.com'
-TWITTER_USERNAME = '@OMGITSrahul'
+#TWITTER_USERNAME = '@OMGITSrahul'
