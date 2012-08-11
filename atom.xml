@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://rahulis.me/atom.xml" rel="self"/>
+  <link href="http://rahulis.me/"/>
+  <updated>2012-08-11T16:11:41+08:00</updated>
+  <id>http://rahulis.me/</id>
+  <author>
+    <name><![CDATA[Rahul]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://rahulis.me/blog/2012/08/05/hello-world/"/>
+    <updated>2012-08-05T13:27:00+08:00</updated>
+    <id>http://rahulis.me/blog/2012/08/05/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello peoples of the internet! Greetings! And welcome to my blag.
+akjvajfnvjlfbnljdbnlsdjkfbnlsdjkfbnlsdfjbnsldgjbnsldbnslgdjbnls
+skdgbnsljb;gdf
+sdfbkns;dnb;sndb</p>
+
+<p>dskbnskdjnbjnndbknkbnkd</p>
+
+<!-- more -->
+
+
+<p>This is some stuff you will onmly see if you click see more! Isn&#8217;t that lovely?
+Okay, goodbye! Tata! See you!</p>
+
+<p>No really, leave!</p>
+
+<p>Bye!</p>
+
+<p>I won&#8217;t be friends with you anymore!</p>
+
+<p>Okay, whatever.</p>
+]]></content>
+  </entry>
+  
+</feed>
